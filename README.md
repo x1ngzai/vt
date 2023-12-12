@@ -1,3 +1,3 @@
-# 17年毕设
+# vt-x process protector
 
-确保关闭内核隔离，否则蓝屏
+close Kernel Isolation first
